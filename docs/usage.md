@@ -33,3 +33,4 @@ Notes and usage details for p3-stack.
 - fix a small wording issue
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps
