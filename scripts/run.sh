@@ -39,3 +39,4 @@ echo "p3-stack"
 # keep defaults in sync with the manifest
 # guard against empty input
 # clarify the control flow
+# clarify the control flow
